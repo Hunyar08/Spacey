@@ -14,4 +14,5 @@ Dark mode: <img width="1401" height="927" alt="image" src="https://github.com/us
 Light Mode: <img width="1401" height="927" alt="image" src="https://github.com/user-attachments/assets/d68170d8-9473-4b18-b745-adef7a7e9cf4" />
 
 ## Install
-You can download the latest release from [Releases](https://github.com/Hunyar08/Spacey/releases/latest) or build using dotnet publish.
+You can download the latest release from [Releases](https://github.com/Hunyar08/Spacey/releases/latest) 
+or build by running ```dotnet run -p:Platform=x64``` in a Powershell Window.
