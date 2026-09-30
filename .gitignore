@@ -1,0 +1,2 @@
+-e "bin//nobj/" 
+-e "bin//nobj//n*.zip" 
